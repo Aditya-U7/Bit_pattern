@@ -89,7 +89,7 @@ int main()
 	std::string bin_num = generate_the_binary(user_input);
 	std::cout << "\n";
 	short char_count = 0;
-	for (auto character : bin_num)
+	for (auto& character : bin_num)
 	{
 		if (char_count % 8 == 0)
 			std::cout << "\n";
