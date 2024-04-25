@@ -20,7 +20,7 @@ unsigned int decimal_to_binary(unsigned int dec_num)   //char chr)
 	if (dec_num > 127)
 	{
 
-		std::cout << "This character at position " << +count << " requires more than 8 bits " << std::endl;
+		std::cout << "This character at position " << +count << " requires more than 8 bits." << std::endl;
 		exit(1);
 	}
 	unsigned int bin_num = 0;
