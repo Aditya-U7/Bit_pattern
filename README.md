@@ -8,3 +8,8 @@ Few examples:
 
 
 ![Screenshot](text_to_bit_pattern2.png)
+
+
+I conceived this bit representation of strings when I came across this blog:
+
+https://www.johndcook.com/blog/2021/04/28/powers-of-3-in-binary/
