@@ -10,6 +10,7 @@ full block character (Unicode hex value: 2588), and the 0's are represented usin
 
 #include <iostream>
 #include <cstdlib>
+#include <cstdint>
 
 
 unsigned int decimal_to_binary(unsigned int dec_num)   //char chr)
